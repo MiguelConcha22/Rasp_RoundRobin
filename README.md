@@ -6,3 +6,8 @@ https://youtu.be/44vJchH0bk4
 
 Video demostrando el funcionamiento en Putty:
 https://youtu.be/vkuKISRH8qo
+
+Integrantes:
+- Miguel Angel Concha
+- Javiera Meneses
+- Vicente Ternicien
